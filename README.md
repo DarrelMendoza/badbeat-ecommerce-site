@@ -2,14 +2,13 @@
 
 This application uses HTML, CSS, Javascript and Bootstrap on the frontend for interactive and responsive UI. The backend is built with PHP which uses MySQL for data management.
 
-## **Live Demo**
+![CPT2310120417-1716x859](https://github.com/DarrelMendoza/badbeat-ecommerce-site/assets/88825804/f73b0474-ba45-48ec-9d96-a908431b4738)
 
-![1](https://github.com/DarrelMendoza/badbeat-ecommerce-site/assets/88825804/8471efc7-84e1-475c-b01e-bd3a1087e7e4)
 
 ## **Technologies Used**
 
-- Frontend: [**HTML**](https://angular.io/), [**CSS**](https://angular.io/), [**Javascript**](https://angular.io/) and [**Bootstrap**](https://getbootstrap.com/)
-- Backend: [**PHP.js**](https://nodejs.org/en/), and [**MySQL**](https://www.mysql.com/)
+- Frontend: [**HTML**](https://html.com/), [**CSS**](https://www.css3.com/), [**Javascript**](https://www.javascript.com/) and [**Bootstrap**](https://getbootstrap.com/)
+- Backend: [**PHP**](https://www.php.net/), and [**MySQL**](https://www.mysql.com/)
 
 ## **Getting Started**
 
@@ -33,12 +32,12 @@ Here are the steps to install and setup the application.
 ### **Clone Repository**
 Clone the repository by running command:
 ```
-git clone git@github.com:DarrelMendoza/to-do-list.git
+git clone git@github.com:DarrelMendoza/badbeat-ecommerce-site.git
 ```
 
 ### **Setting up the Backend**
 
-The NodeJS and Express.js file named **`app.js`** is located in the **`api`** folder. The exported MySQL database file is located in the **`db`** folder.
+The exported MySQL database file is located in the **`main`** directory named  **`ecom_store`**.
 
 1. Install [**XAMPP**](https://www.apachefriends.org/download.html) for our MySQL database.
 2. Open XAMPP control panel and start the Apache and MySQL services.
@@ -47,25 +46,32 @@ The NodeJS and Express.js file named **`app.js`** is located in the **`api`** fo
 
 ## **Running the Application**
 
-To run the application, visit http://localhost:4200/ in your browser. Your application should be up and running.
+To run the application, visit http://localhost/badbeat/ in your browser. Your application should be up and running.
 
 ## **Screenshots**
 
 Below are some more screenshots demonstrating the features of the application.
 
 ### **Main Page**
-![CPT2308010059-1904x912](https://github.com/DarrelMendoza/to-do-list/assets/88825804/abc677a0-bb1c-4c5e-9cd5-95d0908dca5e)
+![1](https://github.com/DarrelMendoza/badbeat-ecommerce-site/assets/88825804/c99b8d90-218e-4ee5-b5c7-b208c3e990d0)
+![2](https://github.com/DarrelMendoza/badbeat-ecommerce-site/assets/88825804/33bfd1b1-00cb-4ecb-bdd2-d28c5566ee1b)
 
-### **Adding a Task**
-![CPT2307281847-1920x906](https://github.com/DarrelMendoza/to-do-list/assets/88825804/e12b7008-b9b9-4d82-a3df-6a35ac7d5440)
+### **Shop**
+![3](https://github.com/DarrelMendoza/badbeat-ecommerce-site/assets/88825804/8469563a-3316-4d09-8e14-26079f925f14)
+![4](https://github.com/DarrelMendoza/badbeat-ecommerce-site/assets/88825804/4ced4de8-df2e-4c89-8047-724cd206b0e0)
 
-### **Editing a Task**
-![CPT2307281849-1920x906](https://github.com/DarrelMendoza/to-do-list/assets/88825804/09f42ed4-68d4-4355-9642-34d6eae891ad)
+### **Cart**
+![5](https://github.com/DarrelMendoza/badbeat-ecommerce-site/assets/88825804/7d874d97-b35b-4c77-90de-c64ab9d46981)
 
-### **Deleting a Task**
-![CPT2307281845-1920x906](https://github.com/DarrelMendoza/to-do-list/assets/88825804/bae250ed-4554-4a78-9fb4-47a2c32c1d2d)
+### **Orders**
+![6](https://github.com/DarrelMendoza/badbeat-ecommerce-site/assets/88825804/a9308c15-e840-41f2-89b4-69c372bc9411)
 
-- **[MySQL](https://www.mysql.com/)**
-- **[Firebase](https://www.firebase.com/)**
+### **Contact**
+![7](https://github.com/DarrelMendoza/badbeat-ecommerce-site/assets/88825804/642b5270-18ee-470b-8182-fdf2210e44a6)
+
+### **Admin Panel**
+![Screenshot 2023-10-11 232213](https://github.com/DarrelMendoza/badbeat-ecommerce-site/assets/88825804/c1e7466c-5b8d-44a7-9392-98d657529633)
+![9](https://github.com/DarrelMendoza/badbeat-ecommerce-site/assets/88825804/441d4067-41a0-4fa2-80f3-73b24d517bc8)
+![10](https://github.com/DarrelMendoza/badbeat-ecommerce-site/assets/88825804/5b001568-b698-477c-881d-17876e87b057)
 
 Feel free to fork this repository and enhance the application.
